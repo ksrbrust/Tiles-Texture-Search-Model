@@ -9,10 +9,12 @@ Valid Folder: The purpose of this folder is to serve as a validation set. It con
 
 This dataset's varied range of textures is key to developing a robust and effective reverse image search system.
 
-### Feature Extraction
+### Feature Extraction:
 Extracting features from each image in the 'train' folder using convolutional neural networks which is suitable for image data.
-### Model Validation
+### Model Validation:
 After developing your feature extraction method, we validate our model using the images from the 'valid' folder and visualize it.
+### Retrieving and Displaying Results:
+Retrieved images by similarity to the query image.
 
 ## Dataset:
 https://drive.google.com/drive/folders/1BNCxQCgyg3FOTDmSjRdpPfvzFRu1LdJm?usp=sharing
